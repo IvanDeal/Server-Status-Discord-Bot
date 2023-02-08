@@ -1,1 +1,1 @@
-# DiscordBot
+# Server Status Discord Bot
